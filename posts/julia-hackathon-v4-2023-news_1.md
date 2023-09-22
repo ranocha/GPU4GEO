@@ -59,7 +59,7 @@ Some of these modifications (like multithreading) are scheduled to be ported in 
 [MAGEMin_C](https://github.com/ComputationalThermodynamics/MAGEMin_C.jl).
 
 ~~~
-<img src="../../assets/images/julia_hackathon_sep_2023_magemin_amr.jpg" alt="Result of running MAGEMin in parallel with an adaptive grid" width="100%">
+<img src="../../assets/images/julia_hackathon_sep_2023_magemin_amr.png" alt="Result of running MAGEMin in parallel with an adaptive grid" width="100%">
 ~~~
 
 
